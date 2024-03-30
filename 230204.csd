@@ -15,10 +15,9 @@ gkTempo init (113 / 60) * 4
 giSin ftgen 1, 0, 1024, 10, 1
 giSample ftgen 2, 0, 0, 1, "samples/kick1.aif", 0, 4, 1
 
-/*
+
 schedule "clock", 0, -1
 schedule "reverb", 0, -1
-*/
 
 instr clock
   ktrig metro gkTempo
@@ -32,15 +31,15 @@ endin
 instr schedule
   icount = p4
   if icount % 1 == 0 then
-    ;; schedule "_init_sound", .0, .3
-    ;; schedule "_bass", .0, .3
+    schedule "_init_sound", .0, .3
+    schedule "_bass", .0, .3
   endif
   if icount % 1 == 0 then
-    ;; schedule "_hihat", .0, random(.03, .13)
+    schedule "_hihat", .0, random(.03, .13)
   endif
   if icount % 4 == 0 then
-    ;; schedule "_init_sound", .0, (1/i(gkTempo)) * 6.
-    ;; schedule "_kick", .0, 1.0
+    schedule "_init_sound", .0, (1/i(gkTempo)) * 6.
+    schedule "_kick", .0, 1.0
   endif
 endin
 
