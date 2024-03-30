@@ -1,5 +1,5 @@
-# Csound livecoding
+# LiveCoding Collection of SungminPark
 
-Csound livecoding performance.
+LiveCoding Performance.
 
-https://youtu.be/eacyGKRBpwA
+230204.csd - https://youtu.be/eacyGKRBpwA
