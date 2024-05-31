@@ -1,6 +1,12 @@
 
 ;; ================================================================================
 ;; load system
+
+;; Need Common Music package. You can get it
+;; https://github.com/byulparan/CommonMusic2
+;; or
+;; https://github.com/ormf/cm
+
 (ql:quickload '(:cl-audiovisual :cm))
 
 ;; ================================================================================
