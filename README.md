@@ -2,6 +2,7 @@
 
 LiveCoding Performance.
 
-230204.csd - https://www.youtube.com/watch?v=eacyGKRBpwA&t=1s  
-230318.csd - https://www.youtube.com/watch?v=MFW7z-1T4WE  
-
+230204.csd  - https://youtu.be/eacyGKRBpwA  
+230318.csd  - https://youtu.be/MFW7z-1T4WE  
+240531.lisp - https://youtu.be/jS84KmkkNkU  
+240610.scd  - https://youtu.be/XGTz-asZEMg  
