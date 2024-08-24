@@ -8,3 +8,5 @@ LiveCoding Performance.
 240610.scd  - https://youtu.be/XGTz-asZEMg  
 240630 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - https://youtu.be/sC5Vtx73tnE  
 240806.scd  - https://youtu.be/2UqN5v2sxMc  
+240824.csd  - https://youtu.be/1XsALiXZnEg  
+
