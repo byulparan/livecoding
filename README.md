@@ -11,3 +11,4 @@ LiveCoding Performance.
 240824.csd  - https://youtu.be/1XsALiXZnEg  
 240826.lisp - https://youtu.be/lCVVTnCaE7A  
 240901.scd  - https://youtu.be/73aSOBQk7a8  
+240906.csd  - https://youtu.be/DnEIjh9wcXI  
